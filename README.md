@@ -5,7 +5,7 @@ It shows the current track from any player, including web apps such as YouTube M
 
 [Polska wersja](README.pl.md)
 
-![The island in the menu bar](docs/island.png)
+![The island in the menu bar](docs/Island.png)
 
 ![The panel shown on click](docs/panel.png)
 
